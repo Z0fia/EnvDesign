@@ -1,0 +1,6 @@
+2024/02/17-20:44:31.512 4398 Creating DB D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/02/17-20:44:31.574 4398 Reusing MANIFEST D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/17-20:44:47.338 206c Level-0 table #5: started
+2024/02/17-20:44:47.375 206c Level-0 table #5: 1166 bytes OK
+2024/02/17-20:44:47.382 206c Delete type=0 #3
+2024/02/17-20:44:47.383 206c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2024/02/17-20:46:51.307 30ac Reusing MANIFEST D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/17-20:46:51.307 30ac Recovering log #4
+2024/02/17-20:46:51.307 30ac Reusing old log D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/02/17-20:50:53.869 4398 Level-0 table #8: started
+2024/02/17-20:50:53.869 4398 Level-0 table #8: 0 bytes OK
+2024/02/17-20:50:53.887 4398 Delete type=0 #4
+2024/02/17-20:50:53.888 4398 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/17-20:50:53.888 4398 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+[0218/162827.931:ERROR:backend_impl.cc(1438)] Unable to map Index file
+[0218/162827.931:ERROR:backend_impl.cc(1438)] Unable to map Index file
+[0218/162828.119:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0218/162828.119:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0218/162828.120:ERROR:cache_util.cc(144)] Unable to move cache folder D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\Cache to D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\old_Cache_001
+[0218/162828.127:ERROR:disk_cache.cc(184)] Unable to create cache
+[0218/162828.120:ERROR:cache_util.cc(144)] Unable to move cache folder D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\Cache to D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\old_Cache_001
+[0218/162828.130:ERROR:disk_cache.cc(184)] Unable to create cache
+[0218/163020.515:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+=======
+[0217/204123.332:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0217/204652.622:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 155
+[0217/204652.622:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 157
+>>>>>>> parent of 34bb3be (SimlpeEnviro_pzp)

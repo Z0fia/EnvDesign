@@ -1,8 +1,15 @@
-2024/02/17-20:46:51.307 30ac Reusing MANIFEST D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/02/17-20:46:51.307 30ac Recovering log #4
-2024/02/17-20:46:51.307 30ac Reusing old log D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
-2024/02/17-20:50:53.869 4398 Level-0 table #8: started
-2024/02/17-20:50:53.869 4398 Level-0 table #8: 0 bytes OK
-2024/02/17-20:50:53.887 4398 Delete type=0 #4
-2024/02/17-20:50:53.888 4398 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2024/02/17-20:50:53.888 4398 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2024/02/18-16:34:03.387 758 Reusing MANIFEST D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/18-16:34:03.387 758 Recovering log #10
+2024/02/18-16:34:03.387 758 Reusing old log D:/NAUKA/2ROKstudia/pzp_r2/EnvDesign/pzp_r2_EnvDesign/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000010.log 
+2024/02/18-16:52:09.519 2870 Level-0 table #15: started
+2024/02/18-16:52:09.528 2870 Level-0 table #15: 190 bytes OK
+2024/02/18-16:52:09.538 2870 Delete type=0 #10
+2024/02/18-16:52:09.538 2870 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/18-16:52:09.538 2870 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 72 : 1
+2024/02/18-16:52:09.540 2870 Compacting 1@1 + 1@2 files
+2024/02/18-16:52:09.548 2870 Generated table #16@1: 18 keys, 534 bytes
+2024/02/18-16:52:09.548 2870 Compacted 1@1 + 1@2 files => 534 bytes
+2024/02/18-16:52:09.557 2870 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/18-16:52:09.557 2870 Delete type=2 #12
+2024/02/18-16:52:09.557 2870 Delete type=2 #15
+2024/02/18-16:52:09.557 2870 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 72 : 1 .. (end); will stop at (end)
